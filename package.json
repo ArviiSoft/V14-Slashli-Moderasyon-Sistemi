@@ -1,0 +1,22 @@
+{
+  "name": "arviis-moderasyon-v14",
+  "version": "9.9.9",
+  "description": "arviis. - V14 SLashlı Moderasyon Sistemi",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "arviis:dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "arviis.",
+  "license": "ISC",
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "discord.js": "^14.1.2",
+    "eris": "^0.17.2",
+    "mongoose": "^6.5.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
