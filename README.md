@@ -5,6 +5,8 @@
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
 https://www.itemsatis.com/discord/v14-slashli-moderasyon-sistemi-1741394.html
+
+https://www.itempazar.com/discord-uye-nitro-sunucu/v14-slashli-moderasyon-sistemi-109931
 # 
 #
 
